@@ -1,0 +1,24 @@
+#one , #two  ,#tre  {
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  margin-left: 20px
+}
+
+button{
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  bottom: 10%;
+  right: 40%
+}
+
+.ll{
+  background-color: white;
+  position: absolute;
+  width: 245px;
+  height: 130px;
+  bottom: 40%;
+  right: 37%;
+}
